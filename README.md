@@ -7,9 +7,10 @@
   ![Attention Editor](./figures/sample.png)
 
   - Code for the Spatio-Temporal Attention Branch Network :
-  https://github.com/mprg-smilab/SpatioTemporalAttentionBranchNetwork.git
+    [ver2](https://github.com/mprg-smilab/SpatioTemporalAttentionBranchNetwork.git) / 
+    [ver1](https://github.com/machine-perception-robotics-group/ST-ABN_PyTorch/tree/9b0f68d7ef40176501465be0d789456beac85e21)
   - Attnetion editor for spatial attentions :
-  https://github.com/machine-perception-robotics-group/AttentionEditorABN.git
+    https://github.com/machine-perception-robotics-group/AttentionEditorABN.git
 
 
 ## Requirements
